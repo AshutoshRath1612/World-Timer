@@ -3,8 +3,24 @@
 Flutter project for World Time App
 <h1> Here User can see the current time of any timezone</h1>
 
-<a href="./build/app/outputs/apk/release/app-armeabi-v7a-release.apk" download="World Time">Download</a>
+<!-- <a href="./build/app/outputs/apk/release/app-armeabi-v7a-release.apk" download="World Time">Download</a> -->
 
+# How it Looks
+
+<h2>Loading Page</h2>
+<img src="./screenshots/loading.jpg">
+
+<br/>
+<h2>During day time</h2>
+<img src="./screenshots/daypage.jpg">
+<img src="./screenshots/chooseday.jpg">
+
+<br/>
+<h2>During night time</h2>
+<img src="./screenshots/nightpage.jpg">
+<img src="./screenshots/choosenight.jpg">
+
+<h1> This is a Project I built for learning purpose</h1>
 
 ## Getting Started
 
