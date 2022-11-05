@@ -1,6 +1,10 @@
-# world_time
+# World Time
 
-Flutter project for world time
+Flutter project for World Time App
+<h1> Here User can see the current time of any timezone</h1>
+
+<a href="./build/app/outputs/apk/release/app-armeabi-v7a-release.apk" download="World Time">Download</a>
+
 
 ## Getting Started
 
