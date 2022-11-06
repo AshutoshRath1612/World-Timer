@@ -8,17 +8,17 @@ Flutter project for World Time App
 # How it Looks
 
 <h2>Loading Page</h2>
-<img src="./screenshots/loading.jpg">
+<img src="./screenshots/loading.jpg" height="400">
 
 <br/>
 <h2>During day time</h2>
-<img src="./screenshots/daypage.jpg">
-<img src="./screenshots/chooseday.jpg">
+<img src="./screenshots/daypage.jpg" height="500">
+<img src="./screenshots/chooseday.jpg" height="500">
 
 <br/>
 <h2>During night time</h2>
-<img src="./screenshots/nightpage.jpg">
-<img src="./screenshots/choosenight.jpg">
+<img src="./screenshots/nightpage.jpg" height="500">
+<img src="./screenshots/choosenight.jpg" height="500">
 
 <h1> This is a Project I built for learning purpose</h1>
 
