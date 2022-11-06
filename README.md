@@ -12,13 +12,18 @@ Flutter project for World Time App
 
 <br/>
 <h2>During day time</h2>
-<img src="./screenshots/daypage.jpg" height="500">
-<img src="./screenshots/chooseday.jpg" height="500">
-
+<p>
+<img align="center" src="./screenshots/daypage.jpg" height="500">
+<img align="center" src="./screenshots/chooseday.jpg" height="500">
+</p>
+ 
 <br/>
 <h2>During night time</h2>
-<img src="./screenshots/nightpage.jpg" height="500">
-<img src="./screenshots/choosenight.jpg" height="500">
+<p>
+<img align="center" src="./screenshots/nightpage.jpg" height="500">
+<img align="center" src="./screenshots/choosenight.jpg" height="500">
+ </p> 
+  
 
 <h1> This is a Project I built for learning purpose</h1>
 
